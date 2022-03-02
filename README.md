@@ -1,2 +1,0 @@
-# ResNet with UI
- 
